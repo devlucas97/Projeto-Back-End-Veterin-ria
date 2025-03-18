@@ -1,6 +1,6 @@
 # 🐾 **Consultório Veterinário**
 
-Este projeto foi desenvolvido para gerenciar os serviços de um **consultório veterinário**, utilizando as tecnologias **Java**, **Spring Boot** e **MySQL**. A aplicação tem como objetivo facilitar o controle de **animais**, **clientes**, **veterinários** e **atendimentos**, proporcionando um sistema organizado para a gestão do consultório.
+Este projeto foi desenvolvido para gerenciar os serviços de um **consultório veterinário**, utilizando as tecnologias **Java**, **Spring Boot** e **MySQL**, sendo um aplicação RestFul. A aplicação tem como objetivo facilitar o controle de **animais**, **clientes**, **veterinários** e **atendimentos**, proporcionando um sistema organizado para a gestão do consultório.
 
 ---
 
